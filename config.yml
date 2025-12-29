@@ -85,7 +85,7 @@ params:
         hiddenInList: false
         hiddenInSingle: true
     label:
-      text: "Jalil Ahmed"
+      text: "J. Ahmed"
       icon: favicon.ico
       iconHeight: 18
 
