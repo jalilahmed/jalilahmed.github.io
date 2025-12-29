@@ -70,6 +70,8 @@ params:
           url: Resume_JalilAhmed.pdf
         - name: Email
           url: mailto:jaill.ahmed@myyahoo.com
+        - name: LinkedIn
+          url: https://www.linkedin.com/in/jalil-siddiqui/
         - name: Google Scholar
           url: https://scholar.google.com/citations?user=FhB8MCwAAAAJ&hl=en
         - name: GitHub
