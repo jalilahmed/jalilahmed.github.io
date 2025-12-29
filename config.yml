@@ -15,7 +15,7 @@ menu:
         - name: Home
           url: /
           weight: 1
-        - name: Papers
+        - name: Papers and Reports
           url: papers/
           weight: 2
         - name: Blog
