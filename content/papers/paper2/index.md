@@ -1,61 +1,36 @@
 ---
-title: "The Finer Points of Sausage Dogs" 
-date: 2004-12-28
-tags: ["zoology","sausage dogs","canine pulmonary efficiency","canine science","experimental zoology"]
-author: ["Florianus Prinzel", "Moritz-Maria von Igelfeld"]
-description: "This paper studies the pulmonary efficiency of sausage dogs. Published in the Journal of Canine Science, 2004." 
-summary: "This paper studies the pulmonary efficiency of sausage dogs through several experiments." 
-cover:
-    image: "paper2.png"
-    alt: "Dimensions of a sausage dog"
-    relative: true
+title: "Hansen parameter evaluation for the characterization of titania photocatalysts using particle size distributions and combinatorics" 
+date: 2022-08-30
+author: ["Osama Anwar et al."]
+description: "The study evaluates Hansen solubility parameters. Published in the Nanoscale, 2022." 
+summary: "The study evaluates Hansen solubility parameters of titania photocatalysts to understand and predict their surface behavior and pollutant adsorption." 
 editPost:
-    URL: "https://github.com/pmichaillat/hugo-website"
-    Text: "Journal of Canine Science"
+    URL: "https://pubs.rsc.org/en/content/articlehtml/2022/nr/d2nr02711a"
+    Text: "Nanoscale"
 
 ---
-
----
-
-##### Download
-
-+ [Paper](paper2.pdf)
-+ [Online appendix](appendix2.pdf)
-+ [Code and data](https://github.com/pmichaillat/wunk-model)
 
 ---
 
 ##### Abstract
 
-This paper studies the pulmonary efficiency of sausage dogs. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur: $\sin(\theta) = x^2 - \exp(1+\chi)$. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor $\zeta$ incididunt ut labore et dolore magna aliqua: $p(x) = \int \cos(\zeta) d\zeta - \theta$. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
----
-
-##### Figure 2: Dimensions of a sausage dog
-
-![](paper2.png)
+Titania photocatalysts have great potential as remediators of air pollution. Although various aspects of photocatalyst synthesis, adsorption and photoactivity have been investigated, a thorough understanding of the particle surface behavior has not yet been fully realized. In order to learn more about the principles behind the surface behavior, we investigate the Hansen solubility/similarity parameters (HSPs) for analyzing and evaluating three photocatalysts synthesized by the gas phase method, solvothermal reaction and sol–gel method, respectively. A particle size distribution-based categorization scheme is introduced for characterizing each material's Hansen parameters based on its interaction with a list of selected probe liquids. The latter was deduced from particle size distributions assessed by analytical centrifugation. Subsequent comparison of the Hansen parameters of the investigated materials shows how HSPs can potentially be used as a model for predicting the pollutant adsorption behavior on the photocatalyst surface. This serves as a first step in heading towards an improved understanding of the particle behavior and translating it into a knowledge-based design, i.e., synthesis and hybridization of novel photocatalysts.
 
 ---
 
 ##### Citation
 
-Prinzel, Florianus, and Moritz-Maria von Igelfeld. 2004. "The Finer Points of Sausage Dogs." *Journal of Canine Science* 43 (2): 89–109. http://www.alexandermccallsmith.com/book/the-finer-points-of-sausage-dogs.
-
 ```latex
 @article{PI04,
-author = {Florianus Prinzel and Moritz-Maria von Igelfeld},
-year = {2004},
-title ={The Finer Points of Sausage Dogs},
-journal = {Journal of Canine Science},
-volume = {43},
-number = {2},
-pages = {89--109},
-url = {http://www.alexandermccallsmith.com/book/the-finer-points-of-sausage-dogs}}
+author = {Osama Anwar, Shalmali Bapat, Jalil Ahmed, Xiaofeng Xie, Jing Sun, Doris Segets},
+year = {2022},
+title ={Hansen parameter evaluation for the characterization of titania photocatalysts using particle size distributions and combinatorics},
+journal = {Nanoscale},
+volume = {14},
+number = {47},
+pages = {13593--13607},
+url = {https://pubs.rsc.org/en/content/articlehtml/2022/nr/d2nr02711a}
+}
 ```
 
 ---
-
-##### Related material
-
-+ [Presentation slides](presentation2.pdf)
-+ [Wikipedia entry](https://en.wikipedia.org/wiki/The_Finer_Points_of_Sausage_Dogs)

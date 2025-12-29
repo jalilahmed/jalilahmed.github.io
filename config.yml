@@ -12,21 +12,15 @@ taxonomies:
 
 menu:
     main:
-        - name: Books
-          url: books/
-          weight: 5 
+        - name: Home
+          url: /
+          weight: 1
         - name: Papers
           url: papers/
           weight: 2
-        - name: Courses
-          url: courses/
-          weight: 3
-        - name: Data
-          url: data/
-          weight: 4 
         - name: Blog
           url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
-          weight: 6
+          weight: 3
 
 params:
     description: "This website hosts Jalil Ahmed's research papers, books, course materials, data, curriculum vitae, and contact information."
@@ -35,7 +29,7 @@ params:
     DateFormat: "January 2006"
     defaultTheme: dark
     hideFooter: false
-    disableThemeToggle: true
+    disableThemeToggle: false
     ShowShareButtons: false
     ShowReadingTime: false
     disableSpecial1stPost: true
@@ -84,10 +78,10 @@ params:
     assets:
         disableScrollBarStyle: true
     cover:
-        hiddenInList: false
+        hiddenInList: true
         hiddenInSingle: true
     label:
-      text: "J. Ahmed"
+      text: "Jalil Ahmed"
       icon: favicon.ico
       iconHeight: 18
 
