@@ -1,5 +1,5 @@
 baseURL: "https://jalilahmed.github.io" 
-title: Moritz-Maria von Igelfeld
+title: Jalil Ahmed
 theme: PaperMod
 
 enableInlineShortcodes: true
@@ -29,11 +29,11 @@ menu:
           weight: 6
 
 params:
-    description: "This website hosts Moritz-Maria von Igelfeld's research papers, books, course materials, data, curriculum vitae, and contact information."
-    author: Moritz-Maria von Igelfeld
+    description: "This website hosts Jalil Ahmed's research papers, books, course materials, data, curriculum vitae, and contact information."
+    author: Jalil Ahmed
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
-    defaultTheme: light
+    defaultTheme: dark
     hideFooter: false
     disableThemeToggle: true
     ShowShareButtons: false
@@ -54,50 +54,30 @@ params:
     math: true
     profileMode:
           enabled: true
-          title: Professor Dr von Igelfeld
-          subtitle: "I am a Professor in the Institute of Romance Philology at the University of Regensburg, Germany. My research focuses on Portuguese irregular verbs. I was a doctoral student of Professor Dr Dieter Vogelsang in Munich, and later a second assistant of Professor Walter Schoeffler-Henschell at the University of Wiesbaden."
-          imageUrl: "picture.jpeg"
+          title: Jalil Ahmed
+          subtitle: "I am a machine learning researcher with a background in engineering, working primarily with deep learning systems for complex, real-world data. My experience spans model development, evaluation, and deployment under practical constraints, with a growing focus on understanding why and when learning systems succeed or fail. Rather than treating neural networks as black-box tools, I am interested in their generalisation behaviour, interpretability, uncertainty, and the structure of the relationships they learn. My long-term aim is to pursue a career that bridges theory, systems, and application, contributing to the development of machine learning methods that are robust, understandable, and reliable in high-impact settings."
+          imageUrl: "profile_picture.jpg"
           imageWidth: 160
           imageHeight: 160
           buttons:
             - name: Papers
               url: papers/
-            - name: Data
-              url: data/
-            - name: Books
-              url: books/
-            - name: Courses
-              url: courses/
-            - name: Tags
-              url: tags/
-            - name: Archive
-              url: archive/
             - name: Blog
               url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
 
     socialIcons:
         - name: CV
-          url: cv.pdf
+          url: Resume_JalilAhmed.pdf
         - name: Email
-          url: mailto:igelfeld@regensburg.edu
-        - name: Zoom
-          url: https://www.zoom.us/my/igelfeld
-        - name: Location
-          url: location/
-        - name: Office Hours
-          url: officehours/
+          url: mailto:jaill.ahmed@myyahoo.com
         - name: Google Scholar
-          url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
+          url: https://scholar.google.com/citations?user=FhB8MCwAAAAJ&hl=en
         - name: GitHub
-          url: https://github.com/pmichaillat
-        - name: Substack
-          url: https://pmichaillat.substack.com
-        - name: YouTube
-          url: https://www.youtube.com/@pmichaillat
+          url: https://github.com/jalilahmed
         - name: Twitter
-          url: https://x.com/pmichaillat
+          url: https://x.com/iJalilAhmed
         - name: Bluesky
-          url: https://bsky.app/profile/pmichaillat.bsky.social
+          url: https://bsky.app/profile/ijalil.bsky.social
 
     assets:
         disableScrollBarStyle: true
@@ -105,7 +85,7 @@ params:
         hiddenInList: false
         hiddenInSingle: true
     label:
-      text: "Moritz-Maria von Igelfeld"
+      text: "Jalil Ahmed"
       icon: favicon.ico
       iconHeight: 18
 
