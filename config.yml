@@ -15,15 +15,15 @@ menu:
         - name: Home
           url: /
           weight: 1
-        - name: Papers and Reports
-          url: papers/
+        - name: Publications
+          url: publications/
           weight: 2
-        - name: Blog
+        - name: Notes
           url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
           weight: 3
 
 params:
-    description: "This website hosts Jalil Ahmed's research papers, books, course materials, data, curriculum vitae, and contact information."
+    description: "This website hosts Jalil Ahmed's research papers, curriculum vitae, and contact information."
     author: Jalil Ahmed
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
@@ -54,9 +54,9 @@ params:
           imageWidth: 160
           imageHeight: 160
           buttons:
-            - name: Papers
-              url: papers/
-            - name: Blog
+            - name: Publications
+              url: publications/
+            - name: Notes
               url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
 
     socialIcons:
