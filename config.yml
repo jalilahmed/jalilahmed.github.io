@@ -19,7 +19,7 @@ menu:
           url: publications/
           weight: 2
         - name: Notes
-          url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
+          url: notes/
           weight: 3
 
 params:
@@ -57,7 +57,7 @@ params:
             - name: Publications
               url: publications/
             - name: Notes
-              url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
+              url: notes/
 
     socialIcons:
         - name: CV
