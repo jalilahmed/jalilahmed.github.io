@@ -131,4 +131,4 @@ The most valuable contribution isn't the highest performance metric. It's the fr
 
 ---
 
-**Read the full technical report**: ![What a Standard ResNet Learns on NIH Chest X-rays—and What We Can (and Can't) Infer From It](report.pdf)
+**Read the full technical report**: [What a Standard ResNet Learns on NIH Chest X-rays—and What We Can (and Can't) Infer From It](report.pdf)
