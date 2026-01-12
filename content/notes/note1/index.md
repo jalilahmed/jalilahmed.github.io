@@ -3,7 +3,7 @@ title: "Techniques to Test Statistical Assumptions: A Comprehensive Guide"
 date: 2020-07-13
 author: ["Jalil Ahmed"]
 description: "A comprehensive guide to the 4-plot process for testing statistical assumptions in data analysis." 
-summary: "Learn systematic techniques for testing the four fundamental assumptions underlying statistical analyses: random drawings, fixed distribution, fixed location, and fixed variation." 
+summary: "Systematic techniques for testing the four fundamental assumptions underlying statistical analyses: random drawings, fixed distribution, fixed location, and fixed variation." 
 tags: ["statistics", "data analysis", "assumptions", "visualization", "quality control"]
 ---
 
