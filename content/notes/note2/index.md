@@ -1,13 +1,11 @@
 ---
 title: "What Does a Deep Learning Model Really Learn from Chest X-rays?" 
-date: 2025-01-13
+date: 2025-01-24
 author: ["Jalil Ahmed"]
 description: "A comprehensive guide analyzing limitations of classification model" 
 summary: "A comprehensive guide analyzing limitations of a disease classification model" 
 tags: ["AI in Healthcare", "Deep Learning", "Medical AI", "Responsible AI", "Computer Vision"]
 ---
-
-# What Does a Deep Learning Model Really Learn from Chest X-rays?
 
 When we train a neural network to diagnose diseases from medical images, we often celebrate high accuracy scores and move on. Lets analyze a ResNet-50 on chest X-ray classification to reveal a more nuanced story—one that every AI practitioner in healthcare should understand.
 
@@ -131,4 +129,4 @@ The most valuable contribution isn't the highest performance metric. It's the fr
 
 ---
 
-**Read the full technical report**: + [What a Standard ResNet Learns on NIH Chest X-rays—and What We Can (and Can't) Infer From It](./report.pdf)
+**Read the full technical report**: [What a Standard ResNet Learns on NIH Chest X-rays—and What We Can (and Can't) Infer From It](./report.pdf)
