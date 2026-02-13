@@ -60,7 +60,7 @@ params:
               url: notes/
 
     socialIcons:
-        - name: CV
+        - name: file-text
           url: Resume_JalilAhmed.pdf
         - name: Email
           url: mailto:jaill.ahmed@myyahoo.com
