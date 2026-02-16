@@ -30,6 +30,7 @@ params:
     defaultTheme: dark
     hideFooter: false
     disableThemeToggle: false
+    hideHeader: false
     ShowShareButtons: false
     ShowReadingTime: false
     disableSpecial1stPost: true
@@ -60,7 +61,7 @@ params:
               url: notes/
 
     socialIcons:
-        - name: file-text
+        - name: custom-cv
           url: Resume_JalilAhmed.pdf
         - name: Email
           url: mailto:jaill.ahmed@myyahoo.com

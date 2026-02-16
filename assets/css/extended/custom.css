@@ -1,0 +1,23 @@
+/* Force the header container to be visible on the Home Page */
+.profileMode .header {
+    display: flex !important;
+    visibility: visible !important;
+    position: absolute !important;
+    top: 10px;
+    right: 10px;
+    z-index: 999;
+    background: transparent !important;
+}
+
+/* Hide the site name/logo and the menu links on Home Page only */
+.profileMode .logo, 
+.profileMode #menu {
+    display: none !important;
+    visibility: hidden !important;
+}
+
+/* Make sure the toggle button itself is forced visible */
+.profileMode #theme-toggle {
+    display: block !important;
+    visibility: visible !important;
+}
